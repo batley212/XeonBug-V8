@@ -16,9 +16,9 @@ global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '50938183845'  //creator number
+global.ownername = '𝐁𝐀𝐓✦𝐋𝐄𝐘 𝐜𝐫𝐞𝐯𝐢𝐭𝐨 𝐑𝐒𝐌' //owner name
+global.botname = '𝐋𝐞 𝐩𝐞𝐭𝐢𝐭 𝐜𝐫𝐞𝐯𝐢𝐭𝐨 ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
@@ -37,11 +37,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -60,8 +60,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
+    admin: 'Ou admin vye chen use koko manmanw',
+    botAdmin: 'met koko manmanw admin pouw use li ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
